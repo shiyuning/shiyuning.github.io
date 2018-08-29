@@ -7,5 +7,5 @@ venue: "Water Resources Research"
 paperurl: 'https://doi.org/10.1002/2016WR018935'
 doi: 10.1002/2016WR018935
 volume: 53
-pages: 2346&ndash2367
+pages: 2346&ndash;2367
 ---

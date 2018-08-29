@@ -7,5 +7,5 @@ venue: "Ecological Modelling"
 paperurl: https://doi.org/10.1016/j.ecolmodel.2018.04.007
 doi: 10.1016/j.ecolmodel.2018.04.007
 volume: 380
-pages: 8&ndash21
+pages: 8&ndash;21
 ---
