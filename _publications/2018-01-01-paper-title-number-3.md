@@ -3,8 +3,9 @@ title: "Using a spatially-distributed hydrologic biogeochemistry model with a ni
 collection: publications
 date: 2018-07-24
 authors: Shi, Y., D. M. Eissenstat, Y. He, and K. J. Davis
-venue: 'Ecological Modelling'
+venue: "Ecological Modelling"
 paperurl: https://doi.org/10.1016/j.ecolmodel.2018.04.007
 doi: 10.1016/j.ecolmodel.2018.04.007
 volume: 380
 pages: 8&ndash21
+---
