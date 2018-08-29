@@ -81,7 +81,7 @@ analytics:
 author:
   name             : "Yuning Shi"
   avatar           : "profile.png"
-  bio              : "My research interest is applying numerical models to simulate land surface, hydrological, and ecosystem processes, to improve the understanding of the interaction among the atmosphere, ecosystem, and subsurface, and to incorporate this understanding into prediction frameworks that can be used for decision-making."
+  bio              : "Research Assistant Professor at Penn State. Hydrometeorologist."
   location         : "Bethlehem, PA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=LWLWZ-gAAAAJ"
@@ -105,7 +105,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          :
   vine             :
   weibo            :
   xing             :
