@@ -44,8 +44,8 @@
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'publications' %}
     <div style="padding-left: 2em; text-indent: -2em;">
-      {% if post.book %}
-        <p>{{ post.authors }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}: {{ post.title }}, in <i>{{ post.book }}</i> (eds. {{ post.editors }}), {{ post.publisher }}. <a href="{{ post.paperurl }}" target="_blank"><u>doi:{{ post.doi }}</u></a>.</p>
+      {% if post.publisher %}
+        <p>{{ post.authors }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}: {{ post.title }}, in <i>{{ post.venue }}</i> (eds. {{ post.editors }}), {{ post.publisher }}. <a href="{{ post.paperurl }}" target="_blank"><u>doi:{{ post.doi }}</u></a>.</p>
       {% elsif post.pages %}
         <p>{{ post.authors }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}: <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>. <i>{{ post.venue }}</i>, <b>{{ post.volume }}</b>, {{ post.pages }}. <a href="{{ post.paperurl }}" target="_blank"><u>doi:{{ post.doi }}</u></a>.</p>
       {% else %}
