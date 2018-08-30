@@ -11,49 +11,46 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Meteorology, The Pennsylvania State University, 2012
+* B.S. in Atmospheric Sciences, Peking University, 2007
+
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Assistant Professor: July 2018 -- now
+  * Department of Ecosystem Science and Management, Penn State University
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Research Associate: October 2014 -- July 2018
+  * Department of Ecosystem Science and Management, Penn State University
+
+* Postdoctoral Researcher: October 2012 -- September 2014
+  * Earth and Environmental Systems Institute, Penn State University
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
+
 Talks
 ======
-  <ul>{% for post in site.talks %}
+  <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Honors and awards
 ======
-* Currently signed in to 43 different slack teams
+* *Advances in Atmospheric Sciences* Editors Award, 2017
+* Penn State Earth and Environmental Systems Institute Scholar, 2009–2010
+* Penn State Earth and Environmental Systems Institute Scholar, 2008–2009
+* Beijing Excellent Graduates, 2007
+* Peking University Excellent Graduates, 2007
+* Peking University Excellent Student Award, 2006
+* Kwang-Hua Scholarship, 2005
+* Peking University Excellent Student Leader Award, 2005
