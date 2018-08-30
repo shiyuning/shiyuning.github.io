@@ -16,9 +16,3 @@ author_profile: true
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
-
-## Manuscripts under Review
-
-{% for post in site.inreviews reversed %}
-  {% include archive-single.html %}
-{% endfor %}
