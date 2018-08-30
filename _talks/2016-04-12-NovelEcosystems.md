@@ -7,4 +7,4 @@ date: 2016-04-12
 location: "University Park, PA"
 ---
 
-Coauthors: D. M. Eissenstat, A. Kemanian, and K. J. Davis. [More information here.](https://www.huck.psu.edu/content/about/news-archive/novel-ecosystems-research-symposium-afternoon-penn-state-ecologists-april)
+Co-authors: D. M. Eissenstat, A. Kemanian, and K. J. Davis. [More information here.](https://www.huck.psu.edu/content/about/news-archive/novel-ecosystems-research-symposium-afternoon-penn-state-ecologists-april)

@@ -7,4 +7,4 @@ date: 2016-05-23
 location: "State College, PA"
 ---
 
-Coauthors: K. J. Davis, F. Zhang, C. J. Duffy, and X. Yu. [More information here.](http://adapt.psu.edu/2016EnKFWorkshop/SYMPOSIUM/index.php)
+Co-authors: K. J. Davis, F. Zhang, C. J. Duffy, and X. Yu. [More information here.](http://adapt.psu.edu/2016EnKFWorkshop/SYMPOSIUM/index.php)
