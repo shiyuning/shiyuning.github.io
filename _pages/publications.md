@@ -17,7 +17,7 @@ author_profile: true
   {% include archive-single.html %}
 {% endfor %}
 
-## Manuscripts under Review
+### Manuscripts under Review
 
 {% for post in site.inreviews reversed %}
   {% include archive-single.html %}
