@@ -2,7 +2,7 @@
 title: "Observing and simulating spatial variations of forest carbon stocks in complex terrain"
 collection: publications
 date: 2020-10-07
-authors: Wlostowski A., N. Molotch, S. Anderson, S. Brantley, J. Chorover, D. Dralle, P. Kumar, L. Li, K. Lohse, J. Mallard, J. McIntosh, S. Murphy, E. Parrish, M. Safeeq, M. Seyfried, <b>Y. Shi</b>, C. Harman
+authors: Wlostowski A., N. Molotch, S. Anderson, S. Brantley, J. Chorover, D. Dralle, P. Kumar, L. Li, K. Lohse, J. Mallard, J. McIntosh, S. Murphy, E. Parrish, M. Safeeq, M. Seyfried, <b>Y. Shi</b>, and C. Harman
 venue: "Water Resources Research"
 paperurl:
 doi: TBD

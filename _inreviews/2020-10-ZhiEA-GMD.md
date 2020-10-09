@@ -1,8 +1,8 @@
 ---
-title: "BioRT-Flux-PIHM v1.0: a watershed biogeochemical reactive transport model"
+title: "BioRT-Flux-PIHM v1.0: A watershed biogeochemical reactive transport model"
 collection: inreviews
 date: 2020-07-03
-authors: Zhi, W., <b>Y. Shi</b>, H. Wen, L. Saberi, G.-H. C. Ng, L. Li
+authors: Zhi, W., <b>Y. Shi</b>, H. Wen, L. Saberi, G.-H. C. Ng, and L. Li
 venue: "Geoscientific Model Development"
 paperurl: https://doi.org/10.5194/gmd-2020-157
 doi: 10.5194/gmd-2020-157
