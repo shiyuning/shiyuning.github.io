@@ -2,8 +2,7 @@
 title: "Visual analytics and decision support for agroecosystem field operations using the Cycles web service"
 collection: inreviews
 date: 2020-10-09
-authors: Lorne Leonard, PhD
-Order of Authors: Leonard, L., <b>Y. Shi</b>, C. White, and A. R. Kemanian
+authors: Leonard, L., <b>Y. Shi</b>, C. White, and A. R. Kemanian
 venue: "Environmental Modelling and Software"
 paperurl:
 doi:
