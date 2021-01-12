@@ -2,7 +2,7 @@
 title: "Evaluation of Flux-PIHM, a physically-based land surface hydrologic model in an agricultural watershed"
 collection: inreviews
 date: 2021-01-05
-authors: Smeglin, Y., <b>Yuning Shi</b>, J. Kaye, C. Hodges, Q. Tang, D. Xiao, Brandon Forsythe, K. Davis, and C. Wayman
+authors: Smeglin, Y., <b>Y. Shi</b>, J. Kaye, C. Hodges, Q. Tang, D. Xiao, Brandon Forsythe, K. Davis, and C. Wayman
 venue: "Hydrological Processes"
 paperurl:
 doi:
