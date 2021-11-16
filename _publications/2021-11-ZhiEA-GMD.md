@@ -1,12 +1,12 @@
 ---
 title: "BioRT-Flux-PIHM v1.0: A watershed biogeochemical reactive transport model"
 collection: inreviews
-date: 2020-07-03
+date: 2021-11-03
 authors: Zhi, W., <b>Y. Shi</b>, H. Wen, L. Saberi, G.-H. C. Ng, and L. Li
 venue: "Geoscientific Model Development"
 paperurl: https://doi.org/10.5194/gmd-2020-157
 doi: 10.5194/gmd-2020-157
-volume: in review
+volume: in press
 pages:
 abstract: "Watersheds are the fundamental Earth surface functioning unit that connects the land to aquatic systems. Existing watershed-scale models typically have physics-based representation of hydrology process but often lack mechanism-based, multi-component representation of reaction thermodynamics and kinetics. This lack of watershed reactive transport models has limited our ability to understand and predict solute export and water quality, particularly under changing climate and anthropogenic conditions. Here we present a recently developed BioRT-Flux-PIHM (BFP) v1.0, a watershed-scale biogeochemical reactive transport model. Augmenting the previously developed RT-Flux-PIHM that integrates land-surface interactions, surface hydrology, and abiotic geochemical reactions (Bao et al., 2017, WRR), the new development enables the simulation of 1) biotic processes including plant uptake and microbe-mediated biogeochemical reactions that are relevant to the transformation of organic matter that involve carbon, nitrogen, and phosphorus; and 2) shallow and deep water partitioning to represent surface and groundwater interactions. The reactive transport part of the code has been verified against the widely used reactive transport code CrunchTope. BioRT-Flux-PIHM v1.0 has recently been applied to understand reactive transport processes in multiple watersheds across different climate, vegetation, and geology conditions. This paper introduces the governing equations and model structure of the code. It also demonstrates examples that simulate shallow and deep water interactions, and biogeochemical reactive transport relevant to nitrate and dissolved organic carbon (DOC). These examples were illustrated in two simulation modes of varying complexity. One is the spatially implicit mode that focuses on processes and average behavior of a watershed. Another is in a spatially explicit mode that includes details of topography, land cover, and soil property conditions. The spatially explicit mode can be used to understand the impacts of spatial structure and identify hot spots of biogeochemical reactions."
 ---
