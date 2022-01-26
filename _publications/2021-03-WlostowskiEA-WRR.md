@@ -1,7 +1,7 @@
 ---
 title: "Signatures of hydrologic function across the critical zone observatory network"
 collection: publications
-date: 2021-03-22
+date: 2021-03-21
 authors: Wlostowski A. N., N. Molotch, S. P. Anderson, S. L. Brantley, J. Chorover, D. Dralle, P. Kumar, L. Li, K. A. Lohse, J. M. Mallard, J. C. McIntosh, S. F. Murphy, E. Parrish, M. Safeeq, M. Seyfried, <b>Y. Shi</b>, and C. Harman
 venue: "Water Resources Research"
 paperurl: https://doi.org/10.1029/2019WR026635

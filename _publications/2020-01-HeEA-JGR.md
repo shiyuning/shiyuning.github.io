@@ -1,7 +1,7 @@
 ---
 title: "Observing and simulating spatial variations of forest carbon stocks in complex terrain"
 collection: publications
-date: 2020-01-03
+date: 2020-01-17
 authors: He, Y., K. J. Davis, <b>Y. Shi</b>, D. M. Eissenstat, J. Kaye, and M. Kaye
 venue: "Journal of Geophysical Research: Biogeosciences"
 paperurl: https://doi.org/10.1029/2019JG005160

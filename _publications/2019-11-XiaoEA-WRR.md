@@ -1,7 +1,7 @@
 ---
 title: "Streamflow generation from catchments of contrasting lithologies: The role of soil properties, topography, and catchment size"
 collection: publications
-date: 2019-09-16
+date: 2019-11-19
 authors: Xiao, D., <b>Y. Shi</b>, S. Brantley, B. Forsythe, R. DiBiase, K. Davis, and L. Li
 venue: "Water Resources Research"
 paperurl:  https://doi.org/10.1029/2018WR023736
