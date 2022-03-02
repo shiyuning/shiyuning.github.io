@@ -1,6 +1,6 @@
 ---
 title: "BioRT-Flux-PIHM v1.0: a biogeochemical reactive transport model at the watershed scale"
-collection: inreviews
+collection: publications
 date: 2022-01-17
 authors: Zhi, W., <b>Y. Shi</b>, H. Wen, L. Saberi, G.-H. C. Ng, K. Sadayappan, D. Kerins, B. Stewart, and L. Li
 venue: "Geoscientific Model Development"
