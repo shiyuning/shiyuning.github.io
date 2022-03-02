@@ -37,7 +37,7 @@
         {% elsif post.volume and post.pages %}
           <p>{{ post.authors }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}: <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>. <i>{{ post.venue }}</i>, <b>{{ post.volume }}</b>, {{ post.pages }}. <a href="{{ post.paperurl }}" target="_blank"><u>doi:{{ post.doi }}</u></a>.</p>
         {% elsif post.pages %}
-          <p>{{ post.authors }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}: <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>. <i>{{ post.venue }}</i>, <b>{{ post.volume }}</b>, {{ post.pages }}. <a href="{{ post.paperurl }}" target="_blank"><u>doi:{{ post.doi }}</u></a>.</p>
+          <p>{{ post.authors }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}: <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>. <i>{{ post.venue }}</i>, {{ post.pages }}. <a href="{{ post.paperurl }}" target="_blank"><u>doi:{{ post.doi }}</u></a>.</p>
         {% else %}
           <p>{{ post.authors }}, {{ post.date | default: "1900-01-01" | date: "%Y" }}: <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ post.title }}</a>. <i>{{ post.venue }}</i>, <b>{{ post.volume }}</b>. <a href="{{ post.paperurl }}" target="_blank"><u>doi:{{ post.doi }}</u></a>.</p>
         {% endif %}
