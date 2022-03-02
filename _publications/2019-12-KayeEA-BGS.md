@@ -1,7 +1,7 @@
 ---
 title: "Ideas and perspectives: Proposed best practices for collaboration at cross-disciplinary observatories"
 collection: publications
-date: 2022-01-17
+date: 2019-12-09
 authors: Kaye, J. P., S. L. Brantley, J. Z. Williams, and the SSHCZO team
 venue: "Biogeosciences"
 paperurl: https://doi.org/10.5194/bg-16-4661-2019
