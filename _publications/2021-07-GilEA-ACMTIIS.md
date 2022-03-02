@@ -2,7 +2,7 @@
 title: "Artificial intelligence for modeling complex systems: Taming the complexity of expert models to improve decision making"
 collection: publications
 date: 2021-07-21
-authors: Gil, Y., D. Garijo, D. Khider, C. A. Knoblock, V. Ratnakar, M. Osorio, H. Vargas, M. Pham, J. Pujara, B. Shbita, B. Vu, Y.-Y. Chiang, D. Feldman, Y. Lin, H. Song, V. Kumar, A. Khandelwal, M. Steinbach, K. Tayal, S. Xu, S. A. Pierce, L. Pearson, D. Hardesty-Lewis, E. Deelman, R. F. Da Silva, R. Mayani, A. R. Kemanian, <b>Y. Shi</b>, L. Leonard, S. Peckham, M. Stoica, K. Cobourn, Z. Zhang, C. Duffy, L. Shu
+authors: Gil, Y., D. Garijo, D. Khider, C. A. Knoblock, V. Ratnakar, M. Osorio, H. Vargas, M. Pham, J. Pujara, B. Shbita, B. Vu, Y.-Y. Chiang, D. Feldman, Y. Lin, H. Song, V. Kumar, A. Khandelwal, M. Steinbach, K. Tayal, S. Xu, S. A. Pierce, L. Pearson, D. Hardesty-Lewis, E. Deelman, R. F. Da Silva, R. Mayani, A. R. Kemanian, <b>Y. Shi</b>, L. Leonard, S. Peckham, M. Stoica, K. Cobourn, Z. Zhang, C. Duffy, and L. Shu
 venue: "ACM Transactions on Interactive Intelligent Systems"
 paperurl: https://doi.org/10.1145/3453172
 doi: 10.1145/3453172
