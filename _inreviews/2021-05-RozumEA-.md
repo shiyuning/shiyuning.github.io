@@ -1,9 +1,9 @@
 ---
-title: "Evaluating agricultural impacts of supply-chain disruptions during and beyond COVID-19 using agroecosystem modeling"
+title: "Seesaw production and pollution associated with COVID-19-like supply chain disruptions in an agroecosystem model"
 collection: inreviews
-date: 2020-05-06
-authors: Rozum, R., <b>Y. Shi</b>, L. Leonard, J. Tooker, V. Ishler, and A. Kemanian
-venue: "Agricultural &#38; Environmental Letters"
+date: 2022-03-03
+authors: Rozum, R. K. N., <b>Y. Shi</b>, L. N. Leonard, J. F. Tooker, V. Ishler, C. M. White and A. R. Kemanian
+venue: "Ecosphere"
 paperurl:
 doi:
 volume: in review
