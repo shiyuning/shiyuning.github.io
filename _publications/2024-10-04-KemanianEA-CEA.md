@@ -1,7 +1,7 @@
 ---
 title: "The Cycles agroecosystem model: Fundamentals, testing, and applications"
 collection: publications
-date: 2024-12-01
+date: 2024-10-04
 authors: Kemanian, A. R., <b>Y. Shi</b>, C. M. White, F. Montes, C. O. Stöckle, D. R. Huggins, M. L. Cangiano, G. Stefani-Faé, and R. K. N. Rozum
 venue: "Computers and Electronics in Agriculture"
 paperurl: https://doi.org/10.1016/j.compag.2024.109510
